@@ -1,4 +1,5 @@
 package model;
 
-public class Departamento {
+public enum Departamento {
+    ELETRONICO, VESTUARIO, LIVROS, OUTROS;
 }
